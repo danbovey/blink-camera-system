@@ -1,6 +1,6 @@
 {
   "name": "blink-camera-system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js service for the Blink for Home camera system",
   "keywords": [],
   "main": "dist/blink-camera-system.umd.js",
