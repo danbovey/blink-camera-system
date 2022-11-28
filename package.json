@@ -15,9 +15,6 @@
     "url": "https://github.com/danbovey/blink-camera-system.git"
   },
   "license": "MIT",
-  "engines": {
-    "node": "14.6.0"
-  },
   "scripts": {
     "format": "prettier --write src/**/*.ts",
     "lint": "tslint  --project tsconfig.json -t codeFrame 'src/**/*.ts' 'test/**/*.ts'",
